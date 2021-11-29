@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RabbitMQ_EmitLogDirect": {
+      "commandName": "Project",
+      "commandLineArgs": "info"
+    }
+  }
+}
